@@ -1,0 +1,5 @@
+# Ignore the target directory, where Rust builds artifacts
+target/
+
+# Ignore any files or directories that start with a dot
+.*
